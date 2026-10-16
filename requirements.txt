@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+strands-agents
+mcp
+pydantic
+python-dotenv
+httpx
+pytest
